@@ -14,7 +14,7 @@
 !/[Aa]ssets/**/*.meta
 
 # Ignore Plugins Folders - Avoid giving away Paid Assets from Unity Asset Store :)
-[Pp]lugins?/
+[Pp]lugins/
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
